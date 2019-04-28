@@ -1,0 +1,1 @@
+{"duration": 1.8214576244354248, "input_args": {"imgs": "'/nfshome/sandbox/perceptron/cobre/fmri_0040113.nii.gz'", "n_confounds": "10", "percentile": "2.0", "detrend": "True", "mask_img": "None"}}
