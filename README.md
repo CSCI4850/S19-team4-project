@@ -24,5 +24,4 @@ In-depth information about this project can be found in the form of a research p
 After you have `nilearn` and `nibabel` installed, then you should be good to run the demo. The rest of the instructions and explanations are provided within the demo itself. You should just have to copy and paste the code into any Python environment to run it.
 
 ## Resources
-Both `nilearn` and `nibabel` have been the main resources used in this project. The dataset that is used is provided by COBRE
-Some of the resource code used can be found in the `FMRI Preprocessing` folder.
+Both `nilearn` and `nibabel` have been the main resources used in this project. The dataset that is used is provided by COBRE. Some of the resource code used can be found in the `FMRI Preprocessing` folder.
